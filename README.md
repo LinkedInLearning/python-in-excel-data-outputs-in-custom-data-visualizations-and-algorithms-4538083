@@ -1,6 +1,10 @@
 # Python in Excel: Data Outputs in Custom Data Visualizations and Algorithms
 This is the repository for the LinkedIn Learning course `Python in Excel: Data Outputs in Custom Data Visualizations and Algorithms`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+Excel is a powerful tool for data and business analysis, and Python is one of the world’s most popular and dynamic programming languages. Python in Excel works as a sandbox environment. It enables developers and business users to test small parts of code by creating visuals and running algorithms on existing data. In this course, data analytics and business analysis expert Helen Wall focuses on how Python can expand the existing capabilities of Excel. Explore the process and framework of setting up Python to create DataFrame objects and other outputs in Excel. Dive into ways you can use these outputs and objects in custom data visualizations and algorithms that Excel does not have natively, but which Python can create with code. This course highlights ways you can harness the strengths of both Excel and Python in one interface.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -19,15 +23,18 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+### Instructor
+
+Helen Wall
+
+Data analytics and business analysis expert                    
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/helen-wall?u=104).
+
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/python-in-excel-data-outputs-in-custom-data-visualizations-and-algorithms
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHYRfBFhnycFg/learning-public-crop_675_1200/0/1718310054393?e=2147483647&v=beta&t=zxw4Km36q2Upvq1Lw7fh38IzDpWtz52BFP-PjpXRg44
 
